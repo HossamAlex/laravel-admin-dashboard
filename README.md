@@ -1,2 +1,19 @@
 # laravel-admin-dashboard
-Best open source admin dashboard &amp; control panel theme. Built on top of Bootstrap 3, AdminLTE provides a range of responsive, reusable, and commonly used components.
+AdminLTE - Laravel Admin Dashboard - Laravel 5.7
+
+Prerequisites
+After cloning the repository, go to the root folder and run the following command/s, 
+
+• composer install
+
+• composer update
+
+Next steps:
+  
+• Rename .env.example to .env and provide your database details.  
+
+• Register
+
+• Login
+
+AdminLTE Template: https://adminlte.io/
